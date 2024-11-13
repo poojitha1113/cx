@@ -11,3 +11,10 @@ git commit -m "test"
 git push
 [git remote set-url origin https://poojitha1113@github.com/poojitha1113/cx.git] any permission issues
 
+git check out:
+new branch create new branch new repo
+and clone the project
+cd to folodr
+and git branch -a
+git checkout test
+work on it 
