@@ -1,0 +1,13 @@
+git init
+git config user.name
+git config user.email
+git config user.name "poojitha1113"
+git config user.email "poojtiha.gutha1113@gmail.com"
+cd d:
+git clone " "
+cd cx
+git add --all
+git commit -m "test"
+git push
+[git remote set-url origin https://poojitha1113@github.com/poojitha1113/cx.git] any permission issues
+
